@@ -1,7 +1,10 @@
 {
   "name": "n4modal",
   "version": "0.0.1",
-  "main": "src/n4modal.js",
+  "main": [
+    "dist/n4modal.min.js",
+    "dist/n4modal.min.css"
+  ],
   "scripts":
   {
     "test": "gulp coverage"
