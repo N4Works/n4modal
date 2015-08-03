@@ -1,12 +1,12 @@
 {
   "name": "n4modal",
   "main": [
-    "dist/n4modal.min.js",
-    "dist/n4modal.min.css"
+    "dist/n4modal.js",
+    "dist/n4modal.css"
   ],
   "version": "0.0.1",
   "homepage": "https://github.com//n4modal",
-  "authors": ["N4Works <email>"],
+  "authors": ["N4Works <contato@n4works.com>"],
   "description": "desc",
   "keywords": [],
   "license": "MIT",
